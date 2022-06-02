@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Tony Sans';
+    src: url('./fonts/Tony-Regular.woff2') format('woff2'),
+            url('./fonts/Tony-Regular.woff') format('woff'),
+            url('./fonts/Tony-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Tony Sans';
+    src: url('./fonts/Tony-Medium.woff2') format('woff2'),
+            url('./fonts/Tony-Medium.woff') format('woff'),
+            url('./fonts/Tony-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tony Sans';
+    src: url('./fonts/Tony-Medium.woff2') format('woff2'),
+            url('./fonts/Tony-Medium.woff') format('woff'),
+            url('./fonts/Tony-Medium.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tony Sans';
+    src: url('./fonts/Tony-Medium.woff2') format('woff2'),
+            url('./fonts/Tony-Medium.woff') format('woff'),
+            url('./fonts/Tony-Medium.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tony Sans';
+    src: url('./fonts/Tony-Medium.woff2') format('woff2'),
+            url('./fonts/Tony-Medium.woff') format('woff'),
+            url('./fonts/Tony-Medium.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
